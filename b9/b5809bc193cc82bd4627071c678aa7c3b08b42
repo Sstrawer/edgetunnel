@@ -1,0 +1,19 @@
+wrangler.toml
+  s_d879229dfcd0f0::t_fe63fb1ab4cd1f 1
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.6",
+  "base_commit_sha": "b9b5809bc193cc82bd4627071c678aa7c3b08b42",
+  "prompts": {},
+  "sessions": {
+    "s_d879229dfcd0f0": {
+      "agent_id": {
+        "tool": "trae",
+        "id": "6ad7475e2c5cdf06073914de",
+        "model": "unknown"
+      },
+      "human_author": "Young242 <taoyangdd@isoftstone.com>"
+    }
+  }
+}
